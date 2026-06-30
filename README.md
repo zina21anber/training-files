@@ -5,7 +5,7 @@ It is used to share my practice work, receive supervisor feedback, and track my 
 
 ## Purpose
 
-- Document coding exercises and prototype implementations.
+- Document coding exercises.
 - Keep a history of my experiments and improvements.
 - Provide a clear reference for evaluation and academic review.
 
@@ -13,7 +13,6 @@ It is used to share my practice work, receive supervisor feedback, and track my 
 
 - Sample scripts and training projects.
 - Experimentation with different techniques and ideas.
-- Files organized by date, topic, or technology (as needed).
 
 ## Usage
 
