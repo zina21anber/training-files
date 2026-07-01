@@ -20,3 +20,13 @@ Feel free to browse the code to:
 - Review my implementation style and problem‑solving approach.
 - Suggest improvements or alternative solutions.
 - Assess progress for grading or mentoring purposes.
+
+
+## for the REST APIs code 
+you have to make sure to install the express library 
+- npm install express
+
+## for the micro-services code
+you have to make sure to install the express and axios libraries 
+- npm install express
+- npm install axios
